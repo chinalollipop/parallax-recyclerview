@@ -1,5 +1,8 @@
 android-parallax-recycleview
 ============================
+有关parallaxListView可以去https://github.com/kanytu/android-parallax-listview
+查看更详细的说明。
+
 
 **Integration**
 ====
